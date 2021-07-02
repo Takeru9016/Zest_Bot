@@ -45,4 +45,4 @@ Search your favourite anime production company.\
 tictactoe\
 Play tic-tac-toe game with your friends.\
 weather\
-Display weather of desired city.\
+Display weather of desired city.
