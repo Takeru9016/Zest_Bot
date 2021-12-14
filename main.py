@@ -17,7 +17,7 @@ tracemoe = tracemoepy.tracemoe.TraceMoe()
 
 client = commands.Bot(command_prefix=["@", '/', '!', '$', '.', '?'])
 
-token = "your_bot_token"
+token = "Nzk2NzIzOTk5NDM4NDA1NjUy.X_cFCw.Dml9QOX2usPVypMI72CMXHGNqwo"
 api_key = "your_openweathermap_api_key"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
