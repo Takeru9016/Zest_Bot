@@ -1,4 +1,4 @@
-# Zest_Bot(DEAD Project)
+# Zest_Bot (DEAD Project)
 
 A multipurpose bot with anime search , tic-tac-toe game , check weather , 8ball magic and simple music player.
 
